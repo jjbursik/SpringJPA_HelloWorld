@@ -12,7 +12,7 @@
 .project
 
 # IntelliJ files #
-*.idea
+.idea
 *-local.properties
 *-local.yml
 *.iml
